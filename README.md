@@ -13,8 +13,7 @@ This is a simple Python calculator that allows users to perform basic arithmetic
 
 ## 🚀 How to Run the Project
 
-1. Ensure you have Python installed on your machine.
-2. Copy the code into a file named `calculator.py`.
-3. Run the program using the command:
+1. Clone the repository:
    ```bash
-   python calculator.py
+   git clone https://github.com/Zenx007/Simple-Calculator.git
+   cd **directory**
